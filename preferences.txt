@@ -1,0 +1,6 @@
+Favorite movie: The Matrix,
+Favorite series: Friends,
+Favorite food: Lasagna,
+Favorit season: Spring,
+Want to visit: Brazil
+
