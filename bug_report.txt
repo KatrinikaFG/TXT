@@ -1,1 +1,14 @@
-
+Project: Pro-X,
+ID: #000001,
+Created Date: 03.05.2022,
+Status: New,
+Priority: Medium,
+Find in: Mozilla Firefox 99.0.1,
+Title: Incorrect project state in Project viewing mode,
+  Description: 
+  1. Choose a project and click Edit Button,
+  2. Change the status of the project,
+  3. Click Save changes,
+  4. Click Project Viewing page
+Result: The status is not renewed,
+Expected result: The status is renewed.
